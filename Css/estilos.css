@@ -10,6 +10,12 @@ body {
     margin: auto;
 }
 
+.navbar {
+    background: linear-gradient(135deg,#f17070,#e16cf8)!important;
+    
+}
+
+
 #color-picker {
     width: 100%;
     height: 50px;
